@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "banner"
+		},
+		{
+			"path": "diferenciales"
+		},
+		{
+			"path": "imagenes"
+		},
+		{
+			"path": "utensilios"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "banner"
+	}
+}
